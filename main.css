@@ -80,6 +80,7 @@ h2 {
   font-family: expletus;
   background-color: rgba(0, 0, 0, 0.25);
   border: none;
+  cursor: pointer;
 }
 
 @media all and (max-width: 545px) {
